@@ -5,7 +5,7 @@ This project analyzes **NYC Yellow Taxi 2020 Trip Data** to explore how **differ
 ---
 
 ## 📑 Table of Contents
-- [#Project-Overview](https://github.com/vipin1codex/nyc-taxi-revenue/blob/main/README.md-project-overview)
+- [Project Overview](#Project-Overview)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Project Workflow](#project-workflow)
@@ -16,7 +16,7 @@ This project analyzes **NYC Yellow Taxi 2020 Trip Data** to explore how **differ
 
 ---
 
-## 📌 Project Overview:
+## 📌 Project Overview
 Taxi drivers' income can be influenced by various factors like **payment methods**, **fare amounts**, and **trip distances**.  
 In this project, we:
 - Analyze the relationship between **payment types** and **fare amount/trip distance**.
