@@ -6,7 +6,7 @@ This project analyzes **NYC Yellow Taxi 2020 Trip Data** to explore how **differ
 
 ## 📑 Table of Contents
 - [Project Overview](#Project-Overview)
-- [Dataset](#dataset)
+- [Dataset](#Dataset)
 - [Technologies Used](#technologies-used)
 - [Project Workflow](#project-workflow)
 - [Key Insights](#key-insights)
