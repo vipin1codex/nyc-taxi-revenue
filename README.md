@@ -5,7 +5,7 @@ This project analyzes **NYC Yellow Taxi 2020 Trip Data** to explore how **differ
 ---
 
 ## 📑 Table of Contents
-- [Project Overview](#Project-Overview)
+- [#Project-Overview](https://github.com/vipin1codex/nyc-taxi-revenue/blob/main/README.md#-project-overview)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Project Workflow](#project-workflow)
